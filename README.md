@@ -1,1 +1,1 @@
-# Information-of-student-
+# Information-of-student program
